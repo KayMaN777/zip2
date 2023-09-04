@@ -1,0 +1,3 @@
+/home/maxim/CLionProjects/Zip2/cmake-build-debug/CMakeFiles/Zip2.dir
+/home/maxim/CLionProjects/Zip2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/maxim/CLionProjects/Zip2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
